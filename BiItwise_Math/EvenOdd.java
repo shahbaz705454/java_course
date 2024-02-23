@@ -1,4 +1,4 @@
-package BItwise_Math;
+package BiItwise_Math;
 
 public class EvenOdd {
     public static void main(String[] args) {
