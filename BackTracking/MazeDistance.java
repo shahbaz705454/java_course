@@ -12,7 +12,7 @@ public class MazeDistance {
         int left = count(r-1,c);
         int right = count(r,c-1);
 
-        return left+right;;
+        return left+right;
 
 
     }
