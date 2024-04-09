@@ -1,4 +1,13 @@
 package OOPS;
+
+
+
+//There are 5 inheritance in java
+// 1-Single Inheritance
+// 2-Multi level Inheritance
+// 3-Hierarchical inheritance
+// 4-Hybrid Inheritance
+// 5-Multiple In Inheritance (Using interface only) Exception in java
 class Shape{
     public void area(){
         System.out.println("Displaying area of different shapes");
@@ -17,7 +26,7 @@ class EuiTriangle extends Triangle{    // multi Level Inheritance
 
 
 }
-class Circle extends Shape {              //hieraricle inheritance
+class Circle extends Shape {              //hierarchical inheritance
     public void area(int r){
         System.out.println((3.14)*r*r);
     }
