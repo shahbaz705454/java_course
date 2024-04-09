@@ -2,6 +2,7 @@ package OOPS;
 
 
 
+
 //There are 5 inheritance in java
 // 1-Single Inheritance
 // 2-Multi level Inheritance
@@ -35,6 +36,8 @@ class Circle extends Shape {              //hierarchical inheritance
 public class Inheritance {
 
     public static void main(String[] args) {
+
+
 
     }
 }
