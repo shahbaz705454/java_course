@@ -3,6 +3,7 @@ package OOPS;
 
 
 
+
 //There are 5 inheritance in java
 // 1-Single Inheritance
 // 2-Multi level Inheritance
