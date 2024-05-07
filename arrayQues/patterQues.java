@@ -21,6 +21,7 @@ public class patterQues {
                 }
             }
             System.out.println();
+            System.out.println("hello");
         }
     }
 
