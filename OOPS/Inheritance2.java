@@ -49,6 +49,8 @@ public class Inheritance2 {
 
         Box box1 = new Box();
 //        box1.display();
+
+
         Box box2 = new Box(22.2);
 //        box2.display();
         Box box3 = new Box(22.4,55.6,77.6);
@@ -62,3 +64,4 @@ public class Inheritance2 {
 
     }
 }
+
