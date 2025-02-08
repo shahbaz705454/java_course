@@ -17,6 +17,7 @@ public class HashSet2 {
        while (it.hasNext()){
             System.out.println(it.next());
         }
+        System.out.println("hello");
 
     }
 }
